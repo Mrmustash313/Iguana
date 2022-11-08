@@ -1,1 +1,1 @@
-worker : npm run musico 
+Worker: node ./musico.js
